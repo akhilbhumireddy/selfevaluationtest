@@ -1,5 +1,6 @@
 import { Component } from "react";
 import "./index.css";
+
 import { Button, Modal } from "react-bootstrap";
 
 class ModalDetails extends Component {
